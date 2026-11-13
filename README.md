@@ -1,308 +1,148 @@
-
 <div align="center">
 
-# Hey there! I'm Eya Ben Hassine 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:160B2E,35:51248B,70:8B5CF6,100:C4B5FD&text=Eya%20Ben%20Hassine&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Data%20%26%20Intelligent%20Systems&descSize=17&descAlignY=58&animation=fadeIn" alt="Purple gradient banner — Eya Ben Hassine" />
 
-### 💻 Software Engineering Student | 📊 Business Intelligence Graduate | 🚀 Tech Enthusiast
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2900&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Building+software+with+purpose+%E2%9C%A8;Where+engineering+meets+data+%F0%9F%92%9C;Curious+mind.+Creative+code.+Real+impact." alt="Animated introduction" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Ideas+into+Real-World+Solutions;Software+Engineering+%7C+Data+%7C+Innovation;Building+Today%2C+Innovating+Tomorrow!" alt="Typing SVG" />
+<br />
 
-<br/>
-
-<a href="https://github.com/eyabenhassyne">
-  <img src="https://komarev.com/ghpvc/?username=eyabenhassyne&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-
-<a href="https://www.linkedin.com/in/eya-ben-hassyne/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:benhassine.eya@esprit.tn">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/eyabenhassyne"><img src="https://img.shields.io/badge/GitHub-17112B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/eya-ben-hassyne/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:benhassine.eya@esprit.tn"><img src="https://img.shields.io/badge/Let's%20connect-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
----
+## ✦ A little about me
 
-## 👩‍💻 About Me
+I'm **Eya**, a second-year **Software Engineering student at ESPRIT** with a background in **Business Intelligence**. I started by asking *what can data tell us?* — and became equally fascinated by *what can we build with it?*
 
-I'm **Eya Ben Hassine**, a passionate **2nd-year Software Engineering student at ESPRIT**, Tunisia, with a Bachelor's degree in **Business Intelligence**.
+Today, I explore the space between **thoughtful software architecture, full-stack experiences and intelligent, data-driven products**. I enjoy taking an idea from a sketch to something people can actually use.
 
-My journey started with transforming data into meaningful insights, and today I'm expanding my expertise into building scalable, intelligent, and user-centered software solutions.
+> **My favorite kind of project?** One that combines elegant engineering with meaningful impact.
 
-I love exploring the intersection of **Software Engineering, Data Analytics, Artificial Intelligence, and Full-Stack Development**.
+<div align="center">
 
-- 🎓 Pursuing an Engineering Degree in Computer Science at **ESPRIT**
-- 📊 Bachelor's Degree in **Business Intelligence**
-- 💻 Passionate about **Software Engineering & Full-Stack Development**
-- 🧠 Interested in **AI, Data Science & Intelligent Systems**
-- 🌱 Continuously learning new technologies and architectural concepts
-- 🤝 Active IEEE volunteer with leadership and technical experience
-- 🎯 Goal: Build innovative technology that makes a real-world impact
-- 📍 Based in **Tunisia 🇹🇳**
+`📍 Tunisia` &nbsp; `🎓 ESPRIT` &nbsp; `🧠 Always learning` &nbsp; `💜 Open to collaboration`
 
-> "From transforming data into insights to transforming ideas into software."
+</div>
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
-</p>
-
-### 🌐 Web & Backend Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,spring,angular,symfony,html,css" />
-</p>
-
-### 📱 Mobile & Desktop Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,java" />
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
-**Also worked with:** Oracle Database
-
-### 📊 Data Analytics, BI & AI
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-**Tools & Technologies:**
-
-- Microsoft Power BI
-- Microsoft Excel
-- SQL
-- Pandas & NumPy
-- Talend
-- TensorFlow
-- BeautifulSoup
-
-### ⚙️ Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,unity" />
-</p>
-
----
-
-## 🚀 Featured Projects
+## ✦ Things I love building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 CRMN Real-Time KPI Dashboard
+### 🏫 Spotli
+**Smarter spaces, simpler campus life.**
 
-Developed a real-time dashboard application to centralize and visualize key performance indicators across multiple organizational processes.
+A university space-reservation concept designed around independent services for rooms, availability, equipment and bookings — with a shared smart-matching vision.
 
-**Highlights:**
-- Real-time KPI monitoring
-- Interactive data visualization
-- Automated data workflows
-- Data-driven decision support
+`Microservices` `REST` `Spring Boot`
 
-**Tech Stack:**  
-`React.js` `Node.js` `MySQL` `Power BI` `Talend`
+</td>
+<td width="50%" valign="top">
+
+### 📊 CRMN KPI Platform
+**Turning complex operations into clarity.**
+
+A real-time dashboard experience that brings together performance indicators and makes decision-making more intuitive.
+
+`React` `Node.js` `MySQL` `Power BI` `Talend`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚗 AUTOLOC API
+**Learning backend engineering by doing.**
+
+A car-rental management backend exploring domain relationships, REST endpoints and maintainable service design.
+
+`Java` `Spring Boot` `JPA` `MySQL`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 WasteWise TN
+**Technology with a sustainability mindset.**
 
-A smart waste-management platform designed to support environmental monitoring and promote data-driven sustainability in Tunisia.
+A web and desktop waste-management solution using visual insights to make environmental indicators easier to understand.
 
-**Highlights:**
-- Web and desktop applications
-- Environmental indicator tracking
-- Interactive dashboards
-- Smart waste-management insights
-
-**Tech Stack:**  
 `Symfony` `JavaFX`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📱 TechConnect
-
-A mobile application bringing technology enthusiasts together through an interactive digital community.
-
-**Highlights:**
-- Technology news
-- Online marketplace
-- Community discussion forum
-- User-friendly mobile experience
-
-**Tech Stack:**  
-`FlutterFlow`
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Orange Tunisia Complaints Dashboard
-
-Designed a business intelligence dashboard to monitor and analyze customer complaints and improve operational decision-making.
-
-**Highlights:**
-- Customer complaints analysis
-- KPI monitoring
-- Performance visualization
-- Resolution-time tracking
-
-**Tech Stack:**  
-`Power BI` `Excel` `SQL`
 
 </td>
 </tr>
 </table>
 
----
+<p align="center"><sub>Also exploring interactive industrial training in Unity, mobile experiences, and intelligent systems.</sub></p>
 
-## 🧩 What I'm Currently Exploring
-
-Beyond my previous projects, I'm expanding my software engineering skills through hands-on academic projects.
-
-### 🏫 Spotli — Smart University Space Reservation
-
-A microservices-based platform for managing university spaces, equipment, availability, and reservations.
-
-**Concepts:**  
-`Microservices` `REST APIs` `Spring Boot` `Distributed Systems`
-
-### 🚗 AUTOLOC — Car Rental Management API
-
-A backend application for managing vehicles, agencies, clients, reservations, contracts, and payments.
-
-**Concepts:**  
-`Java` `Spring Boot` `JPA` `MySQL` `REST API`
-
-### 🎮 Industrial Training Simulation
-
-An interactive 3D industrial environment focused on maintenance training, object manipulation, safety awareness, and realistic worker interactions.
-
-**Concepts:**  
-`Unity` `C#` `3D Simulation` `Interactive Training`
-
----
-
-## 💼 Professional Experience
-
-### 📊 Business Intelligence Intern
-**Research Center in Microelectronics and Nanotechnology (CRMN)**  
-*January 2025 – June 2025*
-
-- Developed interactive BI dashboards for strategic decision-making.
-- Centralized and analyzed organizational performance indicators.
-- Automated reporting processes and data workflows.
-- Contributed to digital transformation through data-driven solutions.
-
-### 📈 Data Analyst Intern
-**Advery Agency**  
-*June 2024 – September 2024*
-
-- Collected, processed, and analyzed organizational and client datasets.
-- Performed predictive analysis to support marketing strategies.
-- Conducted market research and competitive analysis.
-- Identified insights to improve customer-focused decision-making.
-
----
-
-## 🎓 Education
-
-**🎓 Engineering Degree in Computer Science**  
-ESPRIT — Private Higher School of Engineering and Technology  
-*2025 – Present*
-
-**📊 Bachelor's Degree in Business Intelligence**  
-Higher Institute of Management of Sousse  
-*2022 – 2025*
-
----
-
-## 🌍 Leadership & Community
-
-### ⚡ IEEE Tunisia Section | IEEE ESPRIT Student Branch
-
-Active IEEE volunteer with experience in:
-
-- Technical Activities
-- Web Administration
-- General Secretary Responsibilities
-- Ambassadors Coordination
-- Event Organization & Team Collaboration
-
-Participated in the organization of **TSYP11**, one of Tunisia's largest IEEE student congresses, bringing together **1,200+ participants** and **15 challenges**.
-
-I believe that innovation grows through collaboration, leadership, and continuous learning.
-
----
-
-## 📊 GitHub Analytics
+## ✦ My playground
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eyabenhassyne&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+**Languages & frameworks**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyabenhassyne&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,react,nodejs,spring,angular,symfony&theme=dark&perline=9" alt="Languages and frameworks" />
 
-<br/>
+<br /><br />
 
-<img src="https://streak-stats.demolab.com/?user=eyabenhassyne&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+**Data, tools & creative tech**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,tensorflow,git,github,figma,unity,postman&theme=dark&perline=9" alt="Databases and tools" />
+
+<br />
+
+`Power BI` · `Pandas` · `NumPy` · `Talend` · `JavaFX` · `FlutterFlow`
+
+</div>
+
+## ✦ The journey behind the code
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔮 From insights to engineering**
+
+My Business Intelligence foundation taught me how to find stories in data. Studying software engineering at ESPRIT is helping me turn those insights into reliable applications and systems.
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Learning beyond the classroom**
+
+My time exploring BI dashboards at **CRMN** and data analysis at **Advery Agency** shaped the way I approach problems: understand the need, simplify the complexity, build with intention.
+
+</td>
+</tr>
+</table>
+
+**Beyond code:** Being part of **IEEE Tunisia / IEEE ESPRIT Student Branch** has given me opportunities to contribute to technical activities, events and collaborative communities. I love the people side of technology as much as the technical side.
+
+## ✦ A little GitHub magic
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=eyabenhassyne&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E9D5FF" alt="GitHub statistics" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyabenhassyne&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E9D5FF" alt="Most used GitHub languages" />
+
+<br />
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=eyabenhassyne&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=E9D5FF&area=true&area_color=6D28D9&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
-
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/eyabenhassyne/eyabenhassyne/output/github-contribution-grid-snake-dark.svg)
+### ✨ Let's build something meaningful.
 
-</div>
+I believe great technology begins with curiosity, grows through collaboration, and matters when it helps people.
 
----
+**Have an idea, a project, or just want to talk tech?** [Let's connect on LinkedIn](https://www.linkedin.com/in/eya-ben-hassyne/) 💜
 
-## 🤝 Let's Connect!
-
-I'm always excited to connect with developers, tech enthusiasts, and people passionate about creating innovative solutions.
-
-Whether it's about **software development, data, AI, open-source collaboration, or exciting new ideas**, feel free to reach out!
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/eya-ben-hassyne/">
-  <img src="https://img.shields.io/badge/LinkedIn-Eya%20Ben%20Hassine-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:benhassine.eya@esprit.tn">
-  <img src="https://img.shields.io/badge/Gmail-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/eyabenhassyne">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### ✨ Code. Create. Innovate. Repeat.
-
-*Thanks for visiting my profile! 💙*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=115&color=0:C4B5FD,50:8B5CF6,100:160B2E" alt="Purple wave footer" />
 
 </div>
